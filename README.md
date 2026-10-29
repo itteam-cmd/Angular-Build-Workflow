@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Build Workflow — Demo Dashboard
 
 A responsive Angular demo dashboard for practicing GitHub repository workflows and deployment.
@@ -54,3 +55,6 @@ This is a standard Angular app; uploading source code alone does not publish the
 
 ## Notes
 All names, counts, activity and project rows are sample demo data. Replace them with your own content as needed.
+=======
+
+>>>>>>> d82ec576f0f7a799a126bf08d3c02725f2f90ffc
